@@ -2,3 +2,4 @@ EasyInstaller/dist
 EasyInstaller/build
 EasyInstaller/__pycache__
 EasyInstaller/EasyInstaller.spec
+Manifests/**
